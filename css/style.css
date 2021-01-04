@@ -294,3 +294,15 @@ body{
 .footer__social img{
 	margin-left: 5px;
 }
+
+
+
+.git-test__inner{
+	display: flex;
+	justify-content: space-between;
+}
+
+.git-test__title{
+	font-size: 25px;
+	color: red;
+}
